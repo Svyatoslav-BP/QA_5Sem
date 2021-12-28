@@ -1,0 +1,5 @@
+test\CommonConditions.class
+test\HomePageTest.class
+driver\DriverSingleton.class
+page\AbstractPage.class
+page\HomePage.class
